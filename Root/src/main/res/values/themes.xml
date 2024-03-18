@@ -1,0 +1,19 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.Root" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/root_primary</item>
+        <item name="colorPrimaryVariant">@color/root_primaryVariant</item>
+        <item name="colorOnPrimary">@color/root_onPrimary</item>
+        <item name="colorSecondary">@color/root_secondary</item>
+        <item name="colorSecondaryVariant">@color/root_secondaryVariant</item>
+        <item name="colorOnSecondary">@color/root_onSecondary</item>
+        <item name="colorError">@color/root_error</item>
+        <item name="colorOnError">@color/root_onError</item>
+        <item name="colorSurface">@color/root_surface</item>
+        <item name="colorOnSurface">@color/root_onSurface</item>
+        <item name="android:colorBackground">@color/root_android_background</item>
+        <item name="colorOnBackground">@color/root_onBackground</item>
+
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+        <item name="android:textColorTertiary">?attr/colorOnPrimary</item>
+    </style>
+</resources>

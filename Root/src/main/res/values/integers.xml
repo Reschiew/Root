@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="root_CorePoolSize" type="integer">15</item>
+    <item name="root_MaximumPoolSize" type="integer">20</item>
+    <item name="root_KeepAliveTime" type="integer">10000</item>
+</resources>
