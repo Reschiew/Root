@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Root</string>
+    <string name="root_logging_level">information</string>
+    <string name="root_start_text">Start application</string>
+    <string name="root_start_cancel">Cancel</string>
+    <string name="root_got_permissions">Got all permissions</string>
+    <string name="root_permission_missing"> permission(s) missing</string>
+    <string name="root_initialization">Initialization</string>
+    <string name="root_preferences">Preferences</string>
+</resources>
